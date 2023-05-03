@@ -1,6 +1,6 @@
 
 # Self-service diner simulation
-<sub> Author: Šarūnas Jemeljanovas, group 5 </sub>
+<sub> Author: SarunasJJ </sub>
 
 ### Running the program
     To run the program you need to launch go.bat file.
@@ -24,5 +24,5 @@
     -BigInteger.c file contains functions for big integer data structure.
 
     Used data structures:
-    1. Stack (made by joli9279)
-    2. Big Integer (made by albu9211)
+    1. Stack
+    2. Big Integer
